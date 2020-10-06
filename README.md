@@ -1,1 +1,1 @@
-👨‍💻 Data Structures and Algorithms Repo (Leetcode, CP) 
+👨‍💻 Data Structures and Algorithms (Leetcode, CP) 
